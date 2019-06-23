@@ -223,6 +223,7 @@
 				setTimeout(function(){
 					$('.slider-text').removeClass('animated fadeInUp');
 					$('.flex-active-slide').find('.slider-text').addClass('animated fadeInUp');
+					$('#colorlib-hero .flexslider').flexslider("pause");
 				}, 500);
 			}
 
