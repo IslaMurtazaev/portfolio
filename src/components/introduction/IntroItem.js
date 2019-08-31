@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 class IntroItemWrapper extends PureComponent {
   static propTypes = {
     backgroundImageUrl: PropTypes.string.isRequired,
-    chidren: PropTypes.node.isRequired
+    children: PropTypes.node.isRequired
   };
 
   render() {

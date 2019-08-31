@@ -23,7 +23,11 @@ const Introduction = () => (
               </a>
             </p>
           </IntroItemWrapper>
-          <IntroItemWrapper backgroundImageUrl="url(images/img_bg.jpg)">
+          <IntroItemWrapper
+            backgroundImageUrl={`url(images/img_bg${
+              window.innerWidth > 1200 ? "2" : ""
+            }.jpg)`}
+          >
             <h1>
               I love building
               <br /> THINGS !!
