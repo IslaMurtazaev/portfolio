@@ -17,7 +17,7 @@ class IntroItemWrapper extends PureComponent {
           <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
               <div className="slider-text-inner js-fullheight">
-                <div className="desc">{children}</div>
+                <div className="desc intro-item">{children}</div>
               </div>
             </div>
           </div>

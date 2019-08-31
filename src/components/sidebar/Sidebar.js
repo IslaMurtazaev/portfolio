@@ -12,7 +12,9 @@ const Sidebar = () => (
         data-target="#navbar"
         aria-expanded="false"
         aria-controls="navbar"
-      />
+      >
+        <i />
+      </nav>
       <aside id="colorlib-aside" className="border js-fullheight">
         <div className="text-center">
           <div

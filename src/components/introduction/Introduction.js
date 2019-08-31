@@ -11,15 +11,15 @@ const Introduction = () => (
               Hi! <br />
               I'm Islam
             </h1>
-            <p>
+            <p className="col-md-6">
               <a
-                className="btn btn-primary btn-learn"
-                href="https://docs.google.com/document/d/1ahnMHmyT0Ny7AVg60u7WEmSJi4s-3aEJrfo82olZXD0/edit?usp=sharing"
+                className="btn gradient-button"
+                href="https://docs.google.com/document/d/1hs6T0KXUydcGOOLWkcD0xeC5EYNpagVCCaE2ORsO8Vg/edit?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                View CV
-                <i className="icon-download4" />
+                <strong>View CV</strong>&nbsp;
+                <i className="icon-file" />
               </a>
             </p>
           </IntroItemWrapper>
@@ -28,14 +28,14 @@ const Introduction = () => (
               I love building
               <br /> THINGS !!
             </h1>
-            <p>
+            <p className="col-md-6">
               <a
-                className="btn btn-primary btn-learn"
+                className="btn gradient-button"
                 href="https://github.com/IslaMurtazaev"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                View Projects <i className="icon-briefcase3" />
+                <strong>View Projects</strong> <i className="icon-briefcase3" />
               </a>
             </p>
           </IntroItemWrapper>

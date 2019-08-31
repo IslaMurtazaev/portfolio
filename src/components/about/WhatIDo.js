@@ -33,7 +33,7 @@ const WhatIDo = () => (
           color={AQUA}
           icon="icon-data"
           title="Data Science"
-          paragraph="During my lash time I like to experiment with python's Natural
+          paragraph="During my leisure time I like to experiment with python's Natural
           Language Processing libraries"
         />
       </div>
