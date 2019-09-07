@@ -1,6 +1,6 @@
 # PORTFOLIO-APP 
 
-The project was cloned from '[How to create your portfolio website using React.js](https://medium.freecodecamp.org/portfolio-app-using-react-618814e35843)'
+The project was cloned from '[here](https://github.com/dbarochiya/me)'
 - To run this project follow these steps , 
   - clone the repo using `git clone`
   - navigate to folder `portolio`
